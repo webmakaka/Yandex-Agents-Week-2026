@@ -7,3 +7,7 @@ numpy
 langchain-core 
 pydantic 
 typing-extensions
+huggingface_hub 
+transformers 
+accelerate 
+sentencepiece
