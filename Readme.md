@@ -8,6 +8,17 @@ https://www.youtube.com/watch?v=C1OCgbONSAw&list=PL6Wui14DvQPzSfe9EfQhlanlIHaj70
 
 <br/>
 
+<br/>
+
+```shell
+$ pip install uv
+$ uv venv --python=python3.12
+$ source .venv/bin/activate
+$ uv pip install -r requirements.txt
+```
+
+<br/>
+
 **Халява закончилась. GitHub отключил возможность бесплатно пользоваться gpt-4o-mini:**  
 https://github.com/marketplace/models
 
