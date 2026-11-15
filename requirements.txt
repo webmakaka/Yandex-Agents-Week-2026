@@ -2,3 +2,8 @@ openai
 langgraph 
 langchain 
 langchain-openai
+matplotlib
+numpy
+langchain-core 
+pydantic 
+typing-extensions
